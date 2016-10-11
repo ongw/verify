@@ -16,5 +16,10 @@
     "eslint": "^3.7.1",
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1"
+  },
+  "dependencies": {
+    "eslint": "^3.7.1",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1"
   }
 }
