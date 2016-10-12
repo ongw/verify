@@ -3,10 +3,9 @@
   "name": "Verify Extension",
   "author": " ",
   "version": "1.0",
-  "default_locale": "en",
   "description": "An extension to automatically fill verification codes.",
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "publi/img/icon.png",
     "default_popup": "public/main.html"
   },
   "permissions": [
